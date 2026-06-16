@@ -128,8 +128,22 @@ body {
 .hero-content h1 {
     color: white;
     font-size: 22px;
-    font-weight: 300;
+    font-weight: 700;
     margin-bottom: 10px;
+}
+
+.role {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .role {
+        font-size: 2.5rem;
+    }
 }
 
 .hero-content h1 span {

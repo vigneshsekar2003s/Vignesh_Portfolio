@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vignesh-hz2s.vercel.app/sitemap.xml
+
+Sitemap: https://vignesh-portfolio-alpha.vercel.app/sitemap.xml

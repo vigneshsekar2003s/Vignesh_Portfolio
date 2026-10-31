@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vignesh-portfolio-alpha.vercel.app/sitemap.xml
+Sitemap: https://vignesh-sekar-profile.vercel.app/sitemap.xml

@@ -10,7 +10,7 @@ html {
 }
 
 header{
-background-image:url("css/Background-img.jpg");
+background-image:url("./css/css/Background-img.jpg");
 background-size:cover;
 background-position: center;
 display: flex;              /* ADD THIS */
